@@ -12,7 +12,7 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 ## Method Papers
 + [blog 2024.12] **Genie 2: A large-scale foundation world model** [[blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 
-
++ [arXiv 2024.12] **Playable Game Generation** [[paper](https://arxiv.org/pdf/2412.00887)]
 
 + [arXiv 2024.10] **EVA: An Embodied World Model for Future Video Anticipation** [[paper](https://arxiv.org/abs/2410.15461)]
 
