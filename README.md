@@ -23,11 +23,8 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 + [arXiv 2024.08] **Diffusion Models Are Real-Time Game Engines** [[paper](https://arxiv.org/abs/2408.14837)] [[website](https://gamengen.github.io/)]
   
 + 🌟[arXiv 2024.06] **Pandora: Towards General World Model with Natural Language Actions and Video States** [[paper](https://arxiv.org/abs/2406.09455)] [[website](https://world-model.maitrix.org/)] [[code](https://github.com/maitrix-org/Pandora)]
-  
-+ [arXiv 2024.05] **DIAMOND: Diffusion for World Modeling: Visual Details Matter in Atari** [[paper](https://arxiv.org/abs/2405.12399)] [[website](https://diamond-wm.github.io/)] [[code](https://github.com/eloialonso/diamond)] 
 
-
-+ 🌟[arXiv 2024.05] **Diffusion for World Modeling: Visual Details Matter in Atari** [[paper](https://arxiv.org/abs/2405.12399)]  [[website](https://diamond-wm.github.io/)] [[code](https://github.com/eloialonso/diamond)] `NeurIPS 2024`
++ 🌟[arXiv 2024.05] **DIAMOND: Diffusion for World Modeling: Visual Details Matter in Atari** [[paper](https://arxiv.org/abs/2405.12399)]  [[website](https://diamond-wm.github.io/)] [[code](https://github.com/eloialonso/diamond)] `NeurIPS 2024 Spotlight`
 
 + 🌟[arXiv 2024.04] **RoboDreamer: Learning Compositional World Models for Robot Imagination** [[paper](https://arxiv.org/abs/2404.12377)] [[website](https://robovideo.github.io/)] [[code](https://github.com/rainbow979/robodreamer)] `ICML 2024`
 
