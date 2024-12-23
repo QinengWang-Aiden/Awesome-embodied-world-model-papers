@@ -20,7 +20,7 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 
 + 🌟[blog 2024.10] **Oasis: A Universe in a Transformer** [[blog](https://decart.ai/articles/oasis-interactive-ai-video-game-model)] [[website](https://oasis-model.github.io/)] [[code](https://github.com/etched-ai/open-oasis)]
 
-+ [arXiv 2024.08] **Diffusion Models Are Real-Time Game Engines** [[paper](https://arxiv.org/abs/2408.14837)] [[website](https://gamengen.github.io/)]
++ [arXiv 2024.08] **GameNGen: Diffusion Models Are Real-Time Game Engines** [[paper](https://arxiv.org/abs/2408.14837)] [[website](https://gamengen.github.io/)]
   
 + 🌟[arXiv 2024.06] **Pandora: Towards General World Model with Natural Language Actions and Video States** [[paper](https://arxiv.org/abs/2406.09455)] [[website](https://world-model.maitrix.org/)] [[code](https://github.com/maitrix-org/Pandora)]
 
