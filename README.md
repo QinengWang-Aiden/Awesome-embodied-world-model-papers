@@ -13,7 +13,7 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 + [blog 2024.12] **Genie 2: A large-scale foundation world model** [[blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 
 + [arXiv 2024.12] **Playable Game Generation** [[paper](https://arxiv.org/pdf/2412.00887)] [[website](http://124.156.151.207/)] [[code](https://github.com/GreatX3/Playable-Game-Generation)]
-+ 
+  
 + [arXiv 2024.10] **EVA: An Embodied World Model for Future Video Anticipation** [[paper](https://arxiv.org/abs/2410.15461)]
 
 + 🌟[arXiv 2024.10] **AVID: Adapting Video Diffusion Models to World Models** [[paper](https://arxiv.org/abs/2410.12822)] [[website](https://sites.google.com/view/avid-world-model-adapters/home)] [[code](https://github.com/microsoft/causica/tree/main/research_experiments/avid)] 
