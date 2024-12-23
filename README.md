@@ -12,15 +12,20 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 ## Method Papers
 + [blog 2024.12] **Genie 2: A large-scale foundation world model** [[blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 
-+ [arXiv 2024.12] **Playable Game Generation** [[paper](https://arxiv.org/pdf/2412.00887)] [[website](http://124.156.151.207/)] [[code](https://github.com/GreatX3/Playable-Game-Generation)] 
-
++ [arXiv 2024.12] **Playable Game Generation** [[paper](https://arxiv.org/pdf/2412.00887)] [[website](http://124.156.151.207/)] [[code](https://github.com/GreatX3/Playable-Game-Generation)]
++ 
 + [arXiv 2024.10] **EVA: An Embodied World Model for Future Video Anticipation** [[paper](https://arxiv.org/abs/2410.15461)]
 
 + 🌟[arXiv 2024.10] **AVID: Adapting Video Diffusion Models to World Models** [[paper](https://arxiv.org/abs/2410.12822)] [[website](https://sites.google.com/view/avid-world-model-adapters/home)] [[code](https://github.com/microsoft/causica/tree/main/research_experiments/avid)] 
 
 + 🌟[blog 2024.10] **Oasis: A Universe in a Transformer** [[blog](https://decart.ai/articles/oasis-interactive-ai-video-game-model)] [[website](https://oasis-model.github.io/)] [[code](https://github.com/etched-ai/open-oasis)]
 
++ [arXiv 2024.08] **Diffusion Models Are Real-Time Game Engines** [[paper](https://arxiv.org/abs/2408.14837)] [[website](https://gamengen.github.io/)]
+  
 + 🌟[arXiv 2024.06] **Pandora: Towards General World Model with Natural Language Actions and Video States** [[paper](https://arxiv.org/abs/2406.09455)] [[website](https://world-model.maitrix.org/)] [[code](https://github.com/maitrix-org/Pandora)]
+  
++ [arXiv 2024.05] **DIAMOND: Diffusion for World Modeling: Visual Details Matter in Atari** [[paper](https://arxiv.org/abs/2405.12399)] [[website](https://diamond-wm.github.io/)] [[code](https://github.com/eloialonso/diamond)] 
+
 
 + 🌟[arXiv 2024.05] **Diffusion for World Modeling: Visual Details Matter in Atari** [[paper](https://arxiv.org/abs/2405.12399)]  [[website](https://diamond-wm.github.io/)] [[code](https://github.com/eloialonso/diamond)] `NeurIPS 2024`
 
