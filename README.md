@@ -21,6 +21,8 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 + [blog 2024.12] **Genie 2: A large-scale foundation world model** [[blog](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)]
 
 + 🌟[arXiv 2024.12] **PlayGen: Playable Game Generation** [[paper](https://arxiv.org/abs/2412.00887)] [[website](http://124.156.151.207/)] [[code](https://github.com/GreatX3/Playable-Game-Generation)]
+
++ 🌟[arXiv 2024.12] **Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning** [[paper](https://arxiv.org/abs/2412.00547)] [[website](https://envision-research.github.io/MotionDreamer/)] [[code](https://github.com/EnVision-Research/MotionDreamer)]
   
 + [arXiv 2024.10] **EVA: An Embodied World Model for Future Video Anticipation** [[paper](https://arxiv.org/abs/2410.15461)]
 
