@@ -23,7 +23,7 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 + 🌟[arXiv 2024.12] **PlayGen: Playable Game Generation** [[paper](https://arxiv.org/abs/2412.00887)] [[website](http://124.156.151.207/)] [[code](https://github.com/GreatX3/Playable-Game-Generation)]
 
 + 🌟[arXiv 2024.12] **Motion Dreamer: Realizing Physically Coherent Video Generation through Scene-Aware Motion Reasoning** [[paper](https://arxiv.org/abs/2412.00547)] [[website](https://envision-research.github.io/MotionDreamer/)] [[code](https://github.com/EnVision-Research/MotionDreamer)]
-  
+
 + [arXiv 2024.10] **EVA: An Embodied World Model for Future Video Anticipation** [[paper](https://arxiv.org/abs/2410.15461)]
 
 + 🌟[arXiv 2024.10] **AVID: Adapting Video Diffusion Models to World Models** [[paper](https://arxiv.org/abs/2410.12822)] [[website](https://sites.google.com/view/avid-world-model-adapters/home)] [[code](https://github.com/microsoft/causica/tree/main/research_experiments/avid)] 
@@ -35,6 +35,8 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 + 🌟[arXiv 2024.06] **IRASim: Learning Interactive Real-Robot Action Simulators** [[paper](https://arxiv.org/abs/2406.14540)] [[website](https://gen-irasim.github.io/)] [[code](https://github.com/bytedance/IRASim)]
 
 + 🌟[arXiv 2024.06] **Pandora: Towards General World Model with Natural Language Actions and Video States** [[paper](https://arxiv.org/abs/2406.09455)] [[website](https://world-model.maitrix.org/)] [[code](https://github.com/maitrix-org/Pandora)]
+
++ 🌟[arXiv 2024.05] **iVideoGPT: Interactive VideoGPTs are Scalable World Models** [[paper](https://arxiv.org/abs/2405.15223)]  [[website](https://thuml.github.io/iVideoGPT/)] [[code](https://github.com/thuml/iVideoGPT)] `NeurIPS 2024`
 
 + 🌟[arXiv 2024.05] **DIAMOND: Diffusion for World Modeling: Visual Details Matter in Atari** [[paper](https://arxiv.org/abs/2405.12399)]  [[website](https://diamond-wm.github.io/)] [[code](https://github.com/eloialonso/diamond)] `NeurIPS 2024 Spotlight`
 
