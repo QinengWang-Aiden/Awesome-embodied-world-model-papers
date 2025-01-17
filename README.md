@@ -11,6 +11,8 @@ The papers with **real robot experiments** are marked with 🤖. The papers with
 + [arXiv 2024.05] **Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond** [[paper](https://arxiv.org/abs/2405.03520)] [[repo](https://github.com/GigaAI-research/General-World-Models-Survey)]
 
 ## Method Papers
+
++ 🌟[paper 2025.01] **GameFactory: Creating New Games with Generative Interactive Videos** [[paper](https://arxiv.org/abs/2501.08325)] [[website](https://vvictoryuki.github.io/gamefactory/)]  [[code](https://github.com/KwaiVGI/GameFactory)]
 + 🌟[paper 2025.01] **Cosmos World Foundation Model Platform for Physical AI** [[paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NVIDIA%20Cosmos_4.pdf)] [[website](https://www.nvidia.com/en-us/ai/cosmos/)]  [[code](https://github.com/NVIDIA/Cosmos)]
 
 + [arXiv 2025.01] **EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation** [[paper](https://arxiv.org/abs/2501.01895)] [[website](https://sites.google.com/view/enerverse)]
